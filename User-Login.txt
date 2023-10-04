@@ -1,0 +1,16 @@
+username : admin , password : admin1234 , hak akses : admin
+username : kader , password : 12345678 , hak akses : kader
+username : ketua , password : 12345678 , hak akses : ketua
+
+
+orang tua : 
+
+email login : bagio@gmail.com , password : 1234
+email login : Endah@gmail.com , password : 1234
+email login : devtoolind@gmail.com , password : wahyuais
+email login : fufu@gmail.com , password : 1234
+email login : wahyualfarisi30@gmail.com , password : 12345678
+email login : dede@gmail.com , password : 1234
+email login : Hilam@gmail.com , password : 1234
+email login : qwe@gmail.com , password : 1234
+email login : wahyu@gmail.com , password : 1234
